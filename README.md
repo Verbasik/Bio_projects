@@ -1,4 +1,4 @@
-# 🌱 Bio_project: Data-Driven Insights into Public Health and Bioinformatics 🌱
+## 🌱 Bio_project: Data-Driven Insights into Public Health and Bioinformatics 🌱
 
 #### 📌 Обзор
 
@@ -6,8 +6,7 @@
 
 #### 🛠️ Технологический стек
 Языки программирования: 
-- Python;
-- SQL.
+- Python.
 
 Библиотеки и инструменты:
 - Data Manipulation: Pandas, NumPy;
