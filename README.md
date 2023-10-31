@@ -1,4 +1,4 @@
-## 🌱 Bio_project: Data-Driven Insights into Public Health and Bioinformatics 🌱
+## 🌱 Data-Driven Insights into Public Health and Bioinformatics 🌱
 
 #### 📌 Обзор
 
